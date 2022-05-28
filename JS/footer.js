@@ -23,7 +23,7 @@ class Footer extends HTMLElement{
         }
 
         .column--50-25 {
-          width: 49%;
+          width: 48%;
           padding: 20px;
         }
 
@@ -85,7 +85,7 @@ class Footer extends HTMLElement{
           padding: 15px;
           color: white;
           text-align: center;
-          width: 100%;
+          width: 98%;
         }
         .column--50-25 {
           width: 24%;
@@ -143,6 +143,6 @@ class Footer extends HTMLElement{
         </p>
       </footer>
         `
-}
+    }
 }
 window.customElements.define('pag-footer',Footer)

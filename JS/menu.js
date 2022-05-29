@@ -59,6 +59,7 @@ class Menu extends HTMLElement{
           <li><a href="catalogo.html">Catálogo</a></li>
           <li><a href="#">Facturación</a></li>
           <li><a href="nosotros.html">Nosotros</a></li>
+          <li><a href="login.html">LOGIN</a></li>
         </ul>
       </nav>`
     }

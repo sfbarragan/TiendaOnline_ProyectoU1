@@ -32,7 +32,7 @@
             header('location: login.html');
         }else{
       
-            header('location: login.html');
+            header('location: index.html');
         }
     }else{
         header('location: login.html');

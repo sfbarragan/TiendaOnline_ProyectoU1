@@ -6,6 +6,7 @@ form{
     justify-content: center;
     color:#F2D7D5;
     margin: 0 auto;
+    text-align: center;
     width:400px;
 }
 
@@ -43,7 +44,7 @@ form{
 input{
     background: none;
     border: 2px solid #D7BDE2;
-    color: #d3d3d3;
+    color: rgb(133, 131, 131);
     text-align: center;
     justify-content: center;
     padding: 10px 5px;

@@ -62,6 +62,7 @@ class Menu extends HTMLElement{
           <li><a href="login.html">LOGIN</a></li>
         </ul>
       </nav>`
+
     }
 }
 window.customElements.define('pag-menu',Menu)

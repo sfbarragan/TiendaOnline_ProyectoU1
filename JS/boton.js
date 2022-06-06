@@ -1,2 +1,2 @@
-const btn1 = alert("Ingrese los datos del usuario")
+const btn1 = alert("Ingrese usuario y/o contraseña correctos")
 export{btn1};

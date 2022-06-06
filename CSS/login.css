@@ -1,11 +1,12 @@
 
 form{
-    background-color: #1c1d22  ;
+    color :rgba(66, 65, 65, 0.479) ;
     border-radius: 35px;
     padding: 20px;
     justify-content: center;
     color:#F2D7D5;
     margin: 0 auto;
+    text-align: center;
     width:400px;
 }
 
@@ -14,6 +15,7 @@ form{
     align-items: center;
     margin-left: 500px;
     text-align: center;
+    
 }
 
 .btn{
@@ -42,7 +44,7 @@ form{
 input{
     background: none;
     border: 2px solid #D7BDE2;
-    color: #d3d3d3;
+    color: rgb(133, 131, 131);
     text-align: center;
     justify-content: center;
     padding: 10px 5px;
